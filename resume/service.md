@@ -1,5 +1,14 @@
-<section id="service" class="service">
-<header>Select Service and Committee Work</header>
+# Service and Committee Work
+## 2017
+
+## 2016
+Duke University Libaries Strategic Planning Committee
+Hiring Committee - Director of Copyright and Scholarly Communications at DUL
+Standing Committe - LibTAC
+## 2015
+Hiring Committee - Head, Enterprise Services at DUL
+
+## 2014
 <article>Deputy Chair, VCCS New Horizons Conference - 2015<br />
  Chair, RCC Distance Learning &amp; Instructional Technology Committee - 2014-15<br />
  RCC Enterprise Services Committee - 2014-15<br />

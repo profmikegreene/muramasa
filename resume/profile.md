@@ -14,4 +14,5 @@ I am an expressive, insightful, and ambitious higher education technology leader
 I work collaboratively with all stakeholders to deliver IT solutions that meet organizational needs.
 
 Myers Briggs: ENTJ
+
 Passion + Prestige: I lead by dreaming big, and striving for excellence.
